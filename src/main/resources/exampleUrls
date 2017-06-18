@@ -1,0 +1,19 @@
+Use the following URL to retrieve category (use GET)
+    http://localhost:8080/drugstore/webservices/drugstorerestapp/category
+    
+Use the following URL to retrieve products for a category ( use GET) 
+   http://localhost:8080/drugstore/webservices/drugstorerestapp/category/1/product
+   
+Use the following URL to get the details of a product (use get)
+ 	http://localhost:8080/drugstore/webservices/drugstorerestapp/product/1
+
+Use the following URL to update the price of a product ( use PUT)
+	http://localhost:8080/drugstore/webservices/drugstorerestapp/product/1/price/10
+
+Use the following URL to create a product ( use POST)
+http://localhost:8080/drugstore/webservices/drugstorerestapp/product
+
+Use the following URL to delete a product (Use Delete)
+	http://localhost:8080/drugstore/webservices/drugstorerestapp/product/26
+    
+	
